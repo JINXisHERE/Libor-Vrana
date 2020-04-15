@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap");
+body {
+  overflow: hidden;
+  background-color: #0099ff;
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
+.head {
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #0099ff;
+  z-index: 1;
+}
+
+.head a {
+  position: relative;
+  text-decoration: none;
+  color: black;
+  font-family: 'Muli', sans-serif;
+  margin: auto;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  padding-left: 20px;
+  font-size: 20px;
+}
+
+.head a:hover {
+  color: #ff002b;
+}
+
+#staty {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: auto;
+}
+
+.main {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.main #box {
+  display: inline-block;
+  width: 100vw;
+  text-align: center;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.slider {
+  width: 100vw;
+  text-align: center;
+  overflow: hidden;
+}
+
+.slides {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  overflow-x: auto;
+  -ms-scroll-snap-type: x mandatory;
+      scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  overflow: hidden;
+}
+
+.slides > div {
+  scroll-snap-align: start;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 100vw;
+  height: 500px;
+  margin-right: 50px;
+  border-radius: 10px;
+  margin-top: auto;
+  -webkit-transform-origin: center center;
+          transform-origin: center center;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: -webkit-transform 0.5s;
+  transition: -webkit-transform 0.5s;
+  transition: transform 0.5s;
+  transition: transform 0.5s, -webkit-transform 0.5s;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 100px;
+}
+
+.slider > a {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: white;
+  text-decoration: none;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 50%;
+  margin: 0 0 0.5rem 0;
+  position: relative;
+}
+
+h1, h2, h3 {
+  font-size: 30px;
+  color: black;
+}
+/*# sourceMappingURL=frontend.css.map */

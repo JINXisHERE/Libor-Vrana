@@ -1,0 +1,72 @@
+
+<div id="slide-1">
+    <div id="box">
+        <h1>Francie</h1>
+        <h2>hl. město: Paříž</h2>
+        <h3>počet obyvatel: 67,19 mil</h3>
+    </div>
+    </div>
+    <div id="slide-2">
+    <div id="box">
+        <h1>Rusko</h1>
+        <h2>hl. město:Moskva</h2>
+        <h3>počet obyvatel: 144,5 mil</h3>
+    </div>
+    </div>
+    <div id="slide-3">
+    <div id="box">
+        <h1>Kazachstán</h1>
+        <h2>hl. město:Astana</h2>
+        <h3>počet obyvatel: 2,717 mil</h3>
+    </div>
+    </div>
+    <div id="slide-4">
+    <div id="box">
+        <h1>Polsko</h1>
+        <h2>hl. město:Varšava</h2>
+        <h3>počet obyvatel: 38,433 mil</h3>
+    </div>
+    </div>
+    <div id="slide-5">
+    <div id="box">
+        <h1>Bulharsko</h1>
+        <h2>hl. město:Sofie</h2>
+        <h3>počet obyvatel: 7,050 mil</h3>
+    </div>
+    </div>
+    <div id="slide-6">
+    <div id="box">
+        <h1>Německo</h1>
+        <h2>hl. město:Berlín</h2>
+        <h3>počet obyvatel: 83,02 mil</h3>
+    </div>
+    </div>
+    <div id="slide-7">
+    <div id="box">
+        <h1>Slovensko</h1>
+        <h2>hl. město:Bratislava</h2>
+        <h3>počet obyvatel: 5,441 mil</h3>
+    </div>
+    </div>
+    <div id="slide-8">
+    <div id="box">
+        <h1>Slovinsko</h1>
+        <h2>hl. město:Lubaň</h2>
+        <h3>počet obyvatel: 2,061 mil</h3>
+    </div>
+    </div>
+    <div id="slide-9">
+    <div id="box">
+        <h1>Finsko</h1>
+        <h2>hl. město:Helsinky</h2>
+        <h3>počet obyvatel: 5,535 mil</h3>
+    </div>
+    </div>
+    <div id="slide-10">
+    <div id="box">
+        <h1>China</h1>
+        <h2>hl. město:Peking</h2>
+        <h3>počet obyvatel: 1,427,786 mil</h3>
+    </div>
+    </div>
+    
